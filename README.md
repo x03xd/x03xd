@@ -1,6 +1,6 @@
 ## 👋 Hi there
 
-I'm an IT professional with over 2 years of hands-on experience in the tech industry.  
+I'm an IT professional with almost 2 years of hands-on experience in the tech industry, preceded by a period of intensive self-driven learning and personal projects.
 I began my career as a **Software Developer**, focusing on backend development, and for the past year, I've been working as a **Cloud Engineer**, specializing in **DevOps practices**, **infrastructure automation**, and **cloud-native technologies**.
 
 Beyond my professional work, I have a strong interest in **cybersecurity**, **financial markets**, and emerging technologies such as **blockchain**.
