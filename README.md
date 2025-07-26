@@ -16,6 +16,6 @@ Helped me secure a software development internship at **Intel**.
 
 ---
 
-### 🔹 [Windows Keylogger (Educational Project)](https://github.com/x03xd/low-level-windows-keylogger-POC)  
+### 🔹 [Windows C Keylogger (Educational Purposes)](https://github.com/x03xd/low-level-windows-keylogger-POC)  
 An ongoing personal project started in 2024 to explore low-level programming, operating system internals, and common security vulnerabilities in user input handling.
 Written primarily in C and assembly, with some initialization scripts. The project is strictly for educational and ethical purposes — aimed at deepening my understanding of Windows internals and how malicious software operates and spreads.
