@@ -9,13 +9,15 @@ Beyond my professional work, I have a strong interest in **cybersecurity**, **fi
 
 ## 🧩 Featured Projects
 
+### 🔹 [Windows C Keylogger (Educational Purposes)](https://github.com/x03xd/low-level-windows-keylogger-POC)  
+An ongoing personal project started in 2024 to explore low-level programming, operating system internals, and common security vulnerabilities in user input handling.
+Written primarily in C and assembly, with some initialization scripts. The project is strictly for educational and ethical purposes — aimed at deepening my understanding of Windows internals and how malicious software operates and spreads.
+
+⚠️ **Educational and ethical purposes only** — aimed at mastering OS internals and advanced cybersecurity concepts.
+
+---
+
 ### 🔹 [Amazon Clone – Full-Stack E-Commerce Application](https://github.com/x03xd/Amazon-Clone)  
 **Technologies**: Django REST API, React  
 A full-stack e-commerce platform inspired by Amazon, built with modern web technologies.  
 Helped me secure a software development internship at **Intel**.
-
----
-
-### 🔹 [Windows C Keylogger (Educational Purposes)](https://github.com/x03xd/low-level-windows-keylogger-POC)  
-An ongoing personal project started in 2024 to explore low-level programming, operating system internals, and common security vulnerabilities in user input handling.
-Written primarily in C and assembly, with some initialization scripts. The project is strictly for educational and ethical purposes — aimed at deepening my understanding of Windows internals and how malicious software operates and spreads.
